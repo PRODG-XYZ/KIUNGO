@@ -43,7 +43,7 @@
     "leaflet": "^1.9.4",
     "lucide-react": "^0.544.0",
     "nanoid": "^5.1.5",
-    "next": "15.5.25",
+    "next": "15.5.27",
     "prisma": "^6.15.0",
     "react": "19.1.0",
     "react-day-picker": "^9.9.0",
